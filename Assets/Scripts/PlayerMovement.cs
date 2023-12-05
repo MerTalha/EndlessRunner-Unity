@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         if(transform.position.y < -5)
         {
             Die();
-        }
+        }   
     }
 
     public void Die()
